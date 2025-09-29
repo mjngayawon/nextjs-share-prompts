@@ -7,7 +7,6 @@ This project is a full-stack web application built with **Next.js**, featuring c
 - Next.js
 - MongoDB
 - NextAuth
-- Node.js
 - TailwindCSS
 
 ## 🚀 Features
