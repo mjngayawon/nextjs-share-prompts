@@ -29,6 +29,13 @@ This project is a full-stack web application built with **Next.js**, featuring c
 
 <img width="1919" height="913" alt="Image" src="https://github.com/user-attachments/assets/e7f4fc11-000d-4d88-948b-a7de77cb7358" />
 
+## 📑 Learning
+Learned from [JS Mastery](https://www.youtube.com/@javascriptmastery)
+
+Features added:
+- Search Post
+- Implementation of Click on tag
+
 ## ✍️ Authors
 
 - [@mjngayawon](https://github.com/mjngayawon)
